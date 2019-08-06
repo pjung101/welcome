@@ -5,9 +5,9 @@
 ## Roles
 
 ### Adam Hoang - Database and Model Design / Controller Logic + Rest APIs
-### Jay Nagarsheth - Login and Registration (Back-End + Front-End)
+### Jay Nagarsheth - Login and Registration (Back-End + Front-End) / Live Search
 ### Jonathan Jen - Front-End Testing and Design / Content Creation
-### Pete Jung (me) - Deployment on AWS EC2 / Controller Logic / Wireframing
+### Pete Jung (me) - Deployment on AWS EC2 / Wireframing / Jack of All Trades
 
 ## Team
 [![Adam Hoang](https://avatars2.githubusercontent.com/u/43970042?s=100&v=4)](https://github.com/adam-hoang)
